@@ -8,4 +8,4 @@ The contributors to this project are Manda Bucklin, Nate Wagner, Dominic Ventura
 Our focus was to cleanly visualize raw data trends over multiple locational dimensions. These dimensions include: state level (a map of Florida with county boundaries), individual Florida Counties, groups of Florida Counties, and global data across countries. 
 
 ## Results
-Our final results can be viewed [here](https://nwagner.shinyapps.io/COVID-19/?_ga=2.186977761.896718136.1589809159-688664654.1589372921). (Takes a little bit to load)
+Our final results can be viewed [here](https://nwagner.shinyapps.io/COVID-19/?_ga=2.186977761.896718136.1589809159-688664654.1589372921). (Takes a little bit to load, and if you have issues with plots being cutoff, try getting rid of the sidebar by clicking the three lines at the top.)
